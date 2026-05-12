@@ -1,0 +1,389 @@
+Year,Job_Title,Country,Company_Type,Experience_Level,Salary_USD,Remote,Top_Skill
+2026,AI Engineer,Canada,Big Tech,Senior,143241,Yes,SQL
+2026,ML Engineer,UK,Freelance,Mid,77903,No,SQL
+2026,ML Engineer,Germany,Big Tech,Senior,196852,No,Python
+2026,Data Scientist,Canada,Startup,Mid,111598,No,TensorFlow
+2026,ML Engineer,India,Startup,Entry,16080,Yes,TensorFlow
+2026,NLP Engineer,USA,Big Tech,Senior,159780,No,Python
+2026,NLP Engineer,UK,Big Tech,Mid,113884,No,Python
+2026,Data Scientist,Germany,Big Tech,Entry,52990,No,PyTorch
+2026,AI Engineer,USA,Startup,Senior,224715,Yes,SQL
+2026,Data Analyst,Canada,Big Tech,Entry,58774,Yes,TensorFlow
+2026,Data Analyst,UK,Big Tech,Mid,117438,Yes,TensorFlow
+2026,NLP Engineer,USA,Big Tech,Senior,158308,Yes,PyTorch
+2026,NLP Engineer,USA,Startup,Mid,127301,No,NLP
+2026,AI Engineer,Germany,Startup,Entry,42106,Yes,PyTorch
+2026,NLP Engineer,India,Big Tech,Entry,20957,Yes,PyTorch
+2026,AI Engineer,India,Freelance,Senior,67554,No,TensorFlow
+2026,ML Engineer,UK,Startup,Senior,184234,No,Python
+2026,NLP Engineer,UK,Freelance,Mid,131492,No,NLP
+2026,Data Analyst,Germany,Startup,Senior,190698,No,Python
+2026,AI Engineer,Canada,Big Tech,Senior,141889,Yes,TensorFlow
+2026,ML Engineer,Germany,Big Tech,Senior,134080,Yes,SQL
+2026,Data Analyst,UK,Big Tech,Senior,155964,No,PyTorch
+2026,AI Engineer,USA,Big Tech,Entry,70808,Yes,SQL
+2026,AI Engineer,India,Freelance,Mid,46158,Yes,PyTorch
+2026,ML Engineer,India,Big Tech,Mid,34986,Yes,PyTorch
+2026,AI Engineer,UK,Startup,Senior,133070,No,SQL
+2026,AI Engineer,USA,Startup,Mid,88799,No,NLP
+2026,NLP Engineer,Germany,Big Tech,Senior,139148,Yes,NLP
+2026,NLP Engineer,Germany,Freelance,Entry,51614,No,Python
+2026,NLP Engineer,Canada,Freelance,Senior,183897,No,Python
+2026,Data Analyst,India,Big Tech,Entry,21430,No,Python
+2026,AI Engineer,USA,Big Tech,Senior,157596,No,Python
+2026,Data Scientist,Germany,Big Tech,Mid,70100,No,Python
+2026,ML Engineer,Germany,Freelance,Mid,76874,No,Python
+2026,NLP Engineer,Canada,Startup,Mid,90319,No,TensorFlow
+2026,Data Scientist,Germany,Startup,Mid,106222,No,TensorFlow
+2026,Data Scientist,India,Freelance,Mid,33505,Yes,SQL
+2026,NLP Engineer,USA,Freelance,Mid,128883,Yes,SQL
+2026,AI Engineer,India,Startup,Senior,69197,No,SQL
+2026,Data Scientist,USA,Startup,Mid,149136,No,Python
+2026,ML Engineer,USA,Startup,Entry,46168,Yes,TensorFlow
+2026,NLP Engineer,Germany,Big Tech,Senior,195743,Yes,Python
+2026,NLP Engineer,Germany,Freelance,Entry,24044,No,SQL
+2026,Data Analyst,Canada,Freelance,Entry,60534,No,TensorFlow
+2026,Data Scientist,USA,Big Tech,Entry,48531,No,TensorFlow
+2026,AI Engineer,UK,Big Tech,Senior,156248,No,NLP
+2026,Data Analyst,Germany,Freelance,Senior,184004,Yes,NLP
+2026,Data Scientist,UK,Startup,Mid,96189,No,SQL
+2026,ML Engineer,UK,Freelance,Senior,162831,No,Python
+2026,Data Scientist,Canada,Big Tech,Senior,180518,Yes,Python
+2026,NLP Engineer,UK,Freelance,Senior,155653,No,Python
+2026,Data Analyst,India,Freelance,Entry,22648,No,Python
+2026,AI Engineer,UK,Freelance,Senior,175103,No,SQL
+2026,Data Analyst,USA,Big Tech,Senior,200682,No,PyTorch
+2026,ML Engineer,USA,Big Tech,Mid,129366,Yes,SQL
+2026,NLP Engineer,UK,Big Tech,Entry,46003,Yes,SQL
+2026,AI Engineer,Germany,Big Tech,Mid,112765,No,TensorFlow
+2026,NLP Engineer,Canada,Freelance,Mid,80486,No,SQL
+2026,NLP Engineer,USA,Startup,Mid,95648,Yes,PyTorch
+2026,Data Analyst,USA,Freelance,Mid,138754,Yes,TensorFlow
+2026,NLP Engineer,Canada,Big Tech,Entry,24979,Yes,NLP
+2026,AI Engineer,India,Startup,Mid,34165,Yes,NLP
+2026,Data Analyst,India,Startup,Senior,55296,Yes,NLP
+2026,AI Engineer,Canada,Big Tech,Senior,146608,No,TensorFlow
+2026,Data Scientist,Canada,Startup,Mid,131047,Yes,PyTorch
+2026,ML Engineer,India,Startup,Senior,70932,Yes,PyTorch
+2026,Data Analyst,UK,Big Tech,Entry,57663,No,TensorFlow
+2026,NLP Engineer,UK,Freelance,Mid,130458,Yes,Python
+2026,NLP Engineer,Canada,Freelance,Senior,190038,Yes,TensorFlow
+2026,AI Engineer,Canada,Big Tech,Mid,75211,Yes,TensorFlow
+2026,Data Scientist,UK,Startup,Senior,136968,No,TensorFlow
+2026,Data Analyst,USA,Startup,Mid,89690,Yes,NLP
+2026,NLP Engineer,Germany,Big Tech,Mid,67878,Yes,Python
+2026,NLP Engineer,UK,Freelance,Entry,57483,Yes,PyTorch
+2026,Data Analyst,USA,Big Tech,Senior,231803,No,SQL
+2026,NLP Engineer,Canada,Freelance,Senior,195066,No,SQL
+2026,Data Analyst,USA,Startup,Mid,90255,No,Python
+2026,Data Scientist,UK,Big Tech,Senior,183137,No,PyTorch
+2026,ML Engineer,Germany,Freelance,Senior,170540,No,TensorFlow
+2026,AI Engineer,UK,Freelance,Senior,139035,No,SQL
+2026,AI Engineer,India,Startup,Entry,11600,No,NLP
+2026,ML Engineer,Germany,Freelance,Entry,47801,No,SQL
+2026,Data Analyst,Canada,Freelance,Mid,115072,No,NLP
+2026,NLP Engineer,USA,Big Tech,Senior,185456,No,SQL
+2026,NLP Engineer,USA,Startup,Senior,228317,No,PyTorch
+2026,NLP Engineer,USA,Startup,Senior,199308,Yes,PyTorch
+2026,AI Engineer,USA,Startup,Entry,67952,No,Python
+2026,NLP Engineer,UK,Big Tech,Entry,60232,No,NLP
+2026,NLP Engineer,Germany,Freelance,Entry,47392,No,NLP
+2026,Data Scientist,USA,Freelance,Mid,130869,No,SQL
+2026,NLP Engineer,Germany,Startup,Senior,147856,Yes,NLP
+2026,Data Analyst,India,Startup,Mid,32396,Yes,Python
+2026,NLP Engineer,UK,Startup,Entry,22361,No,NLP
+2026,Data Scientist,Germany,Startup,Senior,161747,Yes,SQL
+2026,AI Engineer,Germany,Big Tech,Entry,22347,Yes,PyTorch
+2026,Data Analyst,UK,Big Tech,Mid,130263,No,SQL
+2026,NLP Engineer,UK,Startup,Senior,196216,Yes,Python
+2026,NLP Engineer,USA,Startup,Mid,89263,Yes,SQL
+2026,NLP Engineer,India,Startup,Senior,60474,Yes,NLP
+2026,Data Scientist,USA,Big Tech,Senior,207413,Yes,PyTorch
+2026,Data Analyst,Germany,Startup,Senior,148542,No,PyTorch
+2026,Data Scientist,Canada,Startup,Mid,120833,No,PyTorch
+2026,NLP Engineer,USA,Startup,Mid,146529,Yes,PyTorch
+2026,Data Analyst,USA,Startup,Mid,109593,Yes,PyTorch
+2026,AI Engineer,Canada,Freelance,Mid,130461,Yes,NLP
+2026,Data Scientist,Canada,Big Tech,Mid,103456,No,TensorFlow
+2026,AI Engineer,UK,Big Tech,Mid,92379,No,PyTorch
+2026,Data Scientist,USA,Big Tech,Senior,178360,Yes,Python
+2026,ML Engineer,USA,Startup,Senior,233977,No,PyTorch
+2026,Data Analyst,Canada,Big Tech,Senior,206502,No,PyTorch
+2026,ML Engineer,USA,Big Tech,Mid,113118,Yes,TensorFlow
+2026,AI Engineer,India,Startup,Entry,12781,Yes,PyTorch
+2026,Data Analyst,Germany,Freelance,Senior,155114,Yes,SQL
+2026,Data Analyst,UK,Startup,Mid,125708,Yes,SQL
+2026,Data Scientist,Germany,Big Tech,Senior,157982,Yes,SQL
+2026,Data Analyst,Canada,Startup,Senior,168884,No,Python
+2026,Data Analyst,USA,Freelance,Senior,195080,No,Python
+2026,NLP Engineer,Canada,Freelance,Entry,30105,No,SQL
+2026,Data Analyst,Canada,Startup,Senior,162470,No,SQL
+2026,ML Engineer,UK,Startup,Senior,186271,Yes,SQL
+2026,ML Engineer,UK,Big Tech,Senior,141749,No,SQL
+2026,ML Engineer,Germany,Startup,Senior,140533,Yes,TensorFlow
+2026,Data Analyst,USA,Startup,Mid,152231,Yes,SQL
+2026,Data Scientist,Canada,Big Tech,Entry,39344,No,PyTorch
+2026,ML Engineer,USA,Startup,Entry,30690,Yes,SQL
+2026,AI Engineer,USA,Startup,Mid,109400,No,Python
+2026,Data Analyst,Canada,Startup,Senior,142384,Yes,NLP
+2026,Data Scientist,India,Freelance,Senior,66528,No,PyTorch
+2026,AI Engineer,Germany,Freelance,Senior,176283,No,NLP
+2026,NLP Engineer,Germany,Startup,Entry,46026,Yes,SQL
+2026,Data Scientist,Germany,Freelance,Mid,85571,Yes,PyTorch
+2026,Data Scientist,Germany,Big Tech,Entry,29431,No,Python
+2026,AI Engineer,UK,Big Tech,Entry,35879,No,PyTorch
+2026,AI Engineer,Canada,Big Tech,Mid,122083,No,NLP
+2026,NLP Engineer,India,Freelance,Mid,32711,Yes,NLP
+2026,Data Analyst,UK,Big Tech,Entry,48616,Yes,Python
+2026,AI Engineer,USA,Big Tech,Entry,46040,No,TensorFlow
+2026,Data Analyst,Germany,Startup,Senior,137771,Yes,NLP
+2026,NLP Engineer,Germany,Freelance,Entry,46765,Yes,PyTorch
+2026,Data Scientist,Germany,Big Tech,Entry,42254,No,Python
+2026,AI Engineer,USA,Freelance,Mid,82474,No,PyTorch
+2026,Data Scientist,USA,Freelance,Senior,192786,No,TensorFlow
+2026,Data Scientist,Canada,Freelance,Mid,101863,Yes,NLP
+2026,Data Analyst,USA,Startup,Mid,106771,Yes,PyTorch
+2026,ML Engineer,Canada,Startup,Entry,31604,Yes,Python
+2026,Data Analyst,UK,Startup,Mid,66457,Yes,Python
+2026,AI Engineer,India,Freelance,Mid,29404,No,NLP
+2026,ML Engineer,USA,Big Tech,Senior,174439,No,PyTorch
+2026,Data Analyst,India,Freelance,Entry,19860,Yes,NLP
+2026,AI Engineer,USA,Freelance,Senior,160392,Yes,PyTorch
+2026,AI Engineer,USA,Startup,Mid,84830,Yes,TensorFlow
+2026,AI Engineer,Germany,Big Tech,Senior,171538,No,PyTorch
+2026,NLP Engineer,USA,Startup,Entry,51833,No,Python
+2026,Data Analyst,USA,Startup,Mid,113314,No,NLP
+2026,AI Engineer,Germany,Startup,Senior,173107,Yes,Python
+2026,Data Scientist,Canada,Startup,Senior,150945,Yes,Python
+2026,AI Engineer,UK,Big Tech,Entry,30807,No,SQL
+2026,ML Engineer,Canada,Startup,Mid,106282,No,NLP
+2026,Data Scientist,Germany,Big Tech,Entry,52864,No,TensorFlow
+2026,Data Analyst,Germany,Startup,Senior,133602,No,PyTorch
+2026,Data Analyst,Germany,Freelance,Entry,57205,Yes,TensorFlow
+2026,Data Scientist,Canada,Startup,Senior,143069,No,PyTorch
+2026,ML Engineer,Canada,Big Tech,Entry,58217,No,NLP
+2026,NLP Engineer,Germany,Big Tech,Entry,39162,No,TensorFlow
+2026,Data Analyst,UK,Big Tech,Entry,32400,Yes,TensorFlow
+2026,Data Analyst,India,Freelance,Entry,15280,Yes,TensorFlow
+2026,Data Scientist,USA,Freelance,Senior,194654,No,Python
+2026,ML Engineer,Germany,Freelance,Senior,145002,No,SQL
+2026,ML Engineer,India,Freelance,Mid,25060,No,PyTorch
+2026,Data Scientist,Canada,Startup,Entry,61694,No,PyTorch
+2026,Data Analyst,India,Freelance,Mid,46841,Yes,SQL
+2026,NLP Engineer,Germany,Startup,Mid,101042,No,SQL
+2026,Data Scientist,USA,Big Tech,Mid,135671,Yes,NLP
+2026,Data Scientist,Canada,Big Tech,Mid,135757,No,TensorFlow
+2026,NLP Engineer,Canada,Freelance,Mid,135900,No,SQL
+2026,AI Engineer,UK,Startup,Senior,169582,No,SQL
+2026,Data Scientist,USA,Big Tech,Mid,108199,Yes,Python
+2026,Data Analyst,Canada,Freelance,Senior,157873,No,PyTorch
+2026,NLP Engineer,USA,Freelance,Entry,64801,Yes,NLP
+2026,ML Engineer,USA,Big Tech,Mid,103836,No,Python
+2026,AI Engineer,Canada,Big Tech,Mid,104815,Yes,SQL
+2026,Data Analyst,India,Freelance,Mid,46710,No,Python
+2026,NLP Engineer,India,Big Tech,Entry,18364,Yes,PyTorch
+2026,ML Engineer,India,Freelance,Entry,11152,Yes,Python
+2026,Data Scientist,India,Startup,Mid,28731,Yes,NLP
+2026,NLP Engineer,India,Startup,Mid,32344,No,Python
+2026,ML Engineer,Germany,Freelance,Mid,72048,Yes,SQL
+2026,AI Engineer,India,Big Tech,Senior,70038,No,Python
+2026,AI Engineer,India,Startup,Senior,56344,No,TensorFlow
+2026,ML Engineer,USA,Startup,Mid,150883,No,SQL
+2026,Data Analyst,USA,Freelance,Mid,88634,Yes,Python
+2026,NLP Engineer,USA,Big Tech,Mid,145744,Yes,TensorFlow
+2026,Data Analyst,UK,Startup,Entry,25176,No,NLP
+2026,AI Engineer,Canada,Big Tech,Mid,81230,No,Python
+2026,Data Analyst,UK,Big Tech,Senior,182066,No,PyTorch
+2026,AI Engineer,UK,Freelance,Entry,55539,No,PyTorch
+2026,NLP Engineer,Canada,Freelance,Entry,43832,Yes,Python
+2026,Data Scientist,Canada,Startup,Entry,34582,No,PyTorch
+2026,ML Engineer,Canada,Big Tech,Senior,172871,Yes,Python
+2026,ML Engineer,Canada,Freelance,Senior,139598,Yes,TensorFlow
+2026,Data Analyst,Canada,Big Tech,Entry,56338,Yes,PyTorch
+2026,ML Engineer,UK,Freelance,Entry,52727,No,SQL
+2026,NLP Engineer,India,Startup,Mid,43973,No,Python
+2026,Data Analyst,Germany,Freelance,Entry,49778,Yes,SQL
+2026,Data Analyst,UK,Big Tech,Entry,65408,Yes,Python
+2026,Data Scientist,India,Freelance,Senior,60405,No,NLP
+2026,NLP Engineer,USA,Freelance,Mid,155542,No,NLP
+2026,ML Engineer,USA,Freelance,Mid,150699,No,NLP
+2026,Data Analyst,Germany,Startup,Mid,102032,No,SQL
+2026,AI Engineer,UK,Freelance,Senior,155078,No,NLP
+2026,NLP Engineer,Canada,Freelance,Senior,194749,Yes,Python
+2026,AI Engineer,Canada,Freelance,Senior,145461,Yes,SQL
+2026,Data Scientist,Canada,Big Tech,Entry,47821,No,TensorFlow
+2026,AI Engineer,Canada,Big Tech,Senior,145465,Yes,SQL
+2026,ML Engineer,Germany,Startup,Senior,143209,Yes,SQL
+2026,ML Engineer,Germany,Freelance,Entry,44034,No,Python
+2026,NLP Engineer,USA,Freelance,Mid,135466,Yes,SQL
+2026,Data Scientist,India,Big Tech,Mid,36738,No,SQL
+2026,ML Engineer,Canada,Startup,Entry,44187,No,SQL
+2026,Data Scientist,India,Startup,Mid,33530,No,Python
+2026,NLP Engineer,Germany,Startup,Senior,174123,No,Python
+2026,ML Engineer,USA,Startup,Entry,61629,No,NLP
+2026,AI Engineer,Germany,Startup,Mid,105803,Yes,SQL
+2026,Data Scientist,India,Freelance,Mid,38440,No,SQL
+2026,Data Analyst,UK,Freelance,Mid,88358,Yes,PyTorch
+2026,ML Engineer,USA,Startup,Entry,62327,No,Python
+2026,ML Engineer,USA,Freelance,Entry,58193,Yes,Python
+2026,AI Engineer,USA,Big Tech,Entry,29692,Yes,PyTorch
+2026,AI Engineer,Canada,Startup,Senior,205310,No,NLP
+2026,AI Engineer,UK,Big Tech,Entry,41595,No,SQL
+2026,ML Engineer,Germany,Big Tech,Senior,182653,Yes,TensorFlow
+2026,Data Scientist,Germany,Startup,Entry,55385,Yes,SQL
+2026,Data Scientist,UK,Startup,Mid,77404,No,Python
+2026,ML Engineer,India,Startup,Senior,62894,Yes,NLP
+2026,NLP Engineer,UK,Big Tech,Senior,142849,No,SQL
+2026,Data Scientist,Germany,Big Tech,Entry,38066,No,Python
+2026,Data Analyst,UK,Freelance,Mid,95059,No,NLP
+2026,ML Engineer,Germany,Startup,Entry,28723,Yes,NLP
+2026,AI Engineer,Germany,Freelance,Entry,54397,Yes,NLP
+2026,AI Engineer,UK,Freelance,Entry,49797,Yes,NLP
+2026,Data Analyst,Germany,Freelance,Entry,31930,Yes,SQL
+2026,Data Analyst,Germany,Big Tech,Entry,61670,No,SQL
+2026,AI Engineer,Canada,Freelance,Mid,101676,Yes,SQL
+2026,AI Engineer,UK,Freelance,Senior,142566,Yes,Python
+2026,NLP Engineer,UK,Startup,Senior,184845,Yes,PyTorch
+2026,Data Scientist,Germany,Startup,Entry,56111,No,PyTorch
+2026,ML Engineer,UK,Big Tech,Entry,52011,No,TensorFlow
+2026,NLP Engineer,Germany,Startup,Mid,95047,Yes,PyTorch
+2026,Data Analyst,USA,Startup,Entry,49017,Yes,TensorFlow
+2026,Data Scientist,Germany,Freelance,Mid,128307,Yes,NLP
+2026,Data Scientist,UK,Freelance,Entry,62517,Yes,SQL
+2026,Data Analyst,USA,Freelance,Mid,132960,No,Python
+2026,ML Engineer,Germany,Freelance,Senior,136524,Yes,SQL
+2026,NLP Engineer,UK,Startup,Mid,111089,Yes,NLP
+2026,AI Engineer,USA,Startup,Mid,111261,No,Python
+2026,Data Scientist,Canada,Freelance,Entry,66920,Yes,Python
+2026,Data Scientist,Canada,Big Tech,Entry,43387,Yes,Python
+2026,NLP Engineer,USA,Startup,Mid,138105,No,TensorFlow
+2026,AI Engineer,USA,Freelance,Mid,147030,Yes,Python
+2026,Data Analyst,India,Freelance,Senior,61602,No,SQL
+2026,ML Engineer,India,Startup,Senior,71515,No,Python
+2026,Data Scientist,UK,Startup,Senior,181340,No,NLP
+2026,Data Scientist,UK,Startup,Mid,92770,No,Python
+2026,Data Scientist,USA,Freelance,Entry,52674,No,SQL
+2026,AI Engineer,UK,Big Tech,Entry,48093,No,Python
+2026,NLP Engineer,Germany,Startup,Entry,43435,Yes,NLP
+2026,NLP Engineer,Canada,Freelance,Mid,93328,No,SQL
+2026,ML Engineer,USA,Freelance,Entry,71991,Yes,Python
+2026,ML Engineer,UK,Freelance,Mid,86918,Yes,TensorFlow
+2026,Data Analyst,UK,Freelance,Mid,96648,Yes,TensorFlow
+2026,AI Engineer,India,Big Tech,Entry,16655,Yes,SQL
+2026,Data Analyst,USA,Big Tech,Mid,90808,Yes,Python
+2026,Data Analyst,Canada,Startup,Entry,49412,Yes,TensorFlow
+2026,NLP Engineer,Canada,Big Tech,Senior,150668,Yes,SQL
+2026,Data Scientist,UK,Freelance,Mid,121790,No,TensorFlow
+2026,ML Engineer,India,Big Tech,Entry,8279,No,NLP
+2026,AI Engineer,Canada,Startup,Senior,201134,Yes,Python
+2026,ML Engineer,Canada,Big Tech,Entry,23242,No,Python
+2026,ML Engineer,Germany,Startup,Mid,68266,Yes,PyTorch
+2026,Data Analyst,USA,Freelance,Entry,37763,Yes,SQL
+2026,Data Analyst,India,Startup,Mid,35074,Yes,TensorFlow
+2026,AI Engineer,USA,Startup,Mid,142715,Yes,SQL
+2026,Data Scientist,Germany,Freelance,Entry,60298,Yes,SQL
+2026,Data Scientist,Canada,Big Tech,Entry,44472,No,SQL
+2026,ML Engineer,India,Big Tech,Mid,41319,Yes,PyTorch
+2026,AI Engineer,USA,Startup,Senior,181902,No,TensorFlow
+2026,Data Scientist,USA,Big Tech,Entry,44002,No,SQL
+2026,ML Engineer,UK,Freelance,Senior,175222,No,Python
+2026,Data Analyst,Canada,Freelance,Entry,35162,Yes,SQL
+2026,Data Scientist,Canada,Big Tech,Entry,41454,Yes,Python
+2026,AI Engineer,Canada,Startup,Entry,34155,Yes,SQL
+2026,AI Engineer,Canada,Big Tech,Mid,117865,No,SQL
+2026,Data Scientist,Canada,Big Tech,Entry,56359,Yes,NLP
+2026,Data Analyst,USA,Big Tech,Mid,101065,Yes,TensorFlow
+2026,Data Analyst,Canada,Big Tech,Senior,203361,Yes,TensorFlow
+2026,ML Engineer,UK,Freelance,Senior,151749,Yes,Python
+2026,AI Engineer,India,Big Tech,Entry,20368,Yes,TensorFlow
+2026,AI Engineer,India,Freelance,Senior,48562,No,NLP
+2026,NLP Engineer,USA,Startup,Senior,183898,No,SQL
+2026,Data Scientist,UK,Freelance,Entry,32107,Yes,Python
+2026,ML Engineer,Germany,Big Tech,Senior,143352,No,SQL
+2026,Data Scientist,UK,Startup,Mid,118627,No,TensorFlow
+2026,AI Engineer,Germany,Startup,Mid,124174,No,NLP
+2026,ML Engineer,USA,Startup,Mid,88246,No,SQL
+2026,ML Engineer,UK,Freelance,Entry,23204,No,NLP
+2026,ML Engineer,Canada,Freelance,Senior,178181,No,NLP
+2026,NLP Engineer,India,Startup,Mid,34508,No,NLP
+2026,ML Engineer,India,Big Tech,Entry,21705,No,SQL
+2026,Data Scientist,Canada,Freelance,Entry,66382,Yes,TensorFlow
+2026,NLP Engineer,India,Big Tech,Senior,64962,No,PyTorch
+2026,NLP Engineer,USA,Big Tech,Senior,233365,Yes,SQL
+2026,ML Engineer,USA,Freelance,Mid,102900,Yes,PyTorch
+2026,ML Engineer,India,Freelance,Senior,50447,Yes,NLP
+2026,ML Engineer,Germany,Startup,Mid,126067,Yes,SQL
+2026,AI Engineer,USA,Freelance,Entry,53404,Yes,NLP
+2026,ML Engineer,USA,Freelance,Senior,182707,Yes,NLP
+2026,Data Analyst,India,Freelance,Mid,28491,No,NLP
+2026,AI Engineer,USA,Freelance,Senior,215996,Yes,PyTorch
+2026,NLP Engineer,Germany,Startup,Senior,186388,No,NLP
+2026,ML Engineer,UK,Startup,Senior,140614,No,Python
+2026,NLP Engineer,Germany,Startup,Entry,35587,No,SQL
+2026,ML Engineer,Germany,Startup,Senior,158973,Yes,PyTorch
+2026,NLP Engineer,Canada,Freelance,Senior,195045,Yes,TensorFlow
+2026,NLP Engineer,UK,Freelance,Mid,131649,Yes,PyTorch
+2026,Data Scientist,India,Startup,Senior,65378,Yes,Python
+2026,Data Scientist,USA,Freelance,Mid,132932,No,NLP
+2026,ML Engineer,Canada,Big Tech,Mid,133998,No,TensorFlow
+2026,Data Analyst,USA,Startup,Entry,54769,Yes,PyTorch
+2026,Data Analyst,UK,Big Tech,Entry,36883,Yes,TensorFlow
+2026,ML Engineer,India,Freelance,Entry,11950,No,SQL
+2026,ML Engineer,USA,Startup,Entry,27145,No,NLP
+2026,Data Analyst,USA,Freelance,Senior,219408,Yes,TensorFlow
+2026,AI Engineer,Canada,Freelance,Entry,65898,No,PyTorch
+2026,ML Engineer,USA,Freelance,Mid,117611,No,TensorFlow
+2026,Data Analyst,UK,Big Tech,Mid,88203,Yes,TensorFlow
+2026,AI Engineer,Canada,Big Tech,Senior,147580,No,NLP
+2026,Data Scientist,India,Startup,Senior,61873,No,PyTorch
+2026,AI Engineer,USA,Big Tech,Mid,145414,No,SQL
+2026,NLP Engineer,USA,Big Tech,Senior,231379,Yes,NLP
+2026,AI Engineer,UK,Big Tech,Mid,87495,Yes,SQL
+2026,Data Scientist,India,Freelance,Mid,28666,Yes,TensorFlow
+2026,Data Scientist,Canada,Big Tech,Senior,149680,Yes,SQL
+2026,Data Analyst,USA,Big Tech,Senior,231112,No,NLP
+2026,AI Engineer,Canada,Big Tech,Entry,38192,No,TensorFlow
+2026,Data Analyst,UK,Startup,Entry,25003,Yes,SQL
+2026,ML Engineer,India,Big Tech,Senior,68840,Yes,Python
+2026,Data Scientist,USA,Startup,Senior,156954,No,Python
+2026,ML Engineer,USA,Big Tech,Senior,185107,Yes,NLP
+2026,AI Engineer,India,Freelance,Entry,13919,No,SQL
+2026,Data Analyst,USA,Startup,Senior,229500,Yes,NLP
+2026,ML Engineer,UK,Big Tech,Senior,172179,No,PyTorch
+2026,AI Engineer,Canada,Freelance,Entry,45860,Yes,TensorFlow
+2026,ML Engineer,Germany,Big Tech,Entry,46149,No,TensorFlow
+2026,Data Analyst,UK,Big Tech,Entry,52833,Yes,PyTorch
+2026,Data Scientist,India,Freelance,Mid,28003,Yes,SQL
+2026,NLP Engineer,India,Freelance,Mid,33278,No,TensorFlow
+2026,Data Analyst,UK,Freelance,Mid,124019,Yes,Python
+2026,AI Engineer,Germany,Startup,Senior,159100,No,TensorFlow
+2026,ML Engineer,Germany,Big Tech,Entry,32258,Yes,PyTorch
+2026,NLP Engineer,USA,Startup,Mid,134282,No,TensorFlow
+2026,AI Engineer,India,Big Tech,Senior,71308,No,TensorFlow
+2026,ML Engineer,Canada,Freelance,Senior,182755,Yes,SQL
+2026,AI Engineer,Germany,Startup,Entry,62010,Yes,SQL
+2026,AI Engineer,Germany,Startup,Entry,33710,Yes,TensorFlow
+2026,ML Engineer,India,Big Tech,Mid,40890,No,SQL
+2026,NLP Engineer,India,Big Tech,Entry,12732,Yes,TensorFlow
+2026,NLP Engineer,UK,Big Tech,Senior,151081,No,Python
+2026,Data Analyst,USA,Freelance,Senior,207138,Yes,PyTorch
+2026,ML Engineer,Canada,Freelance,Senior,146731,Yes,PyTorch
+2026,AI Engineer,UK,Freelance,Senior,181386,No,Python
+2026,AI Engineer,USA,Freelance,Entry,53012,No,TensorFlow
+2026,NLP Engineer,USA,Big Tech,Entry,34106,No,TensorFlow
+2026,NLP Engineer,USA,Freelance,Senior,214826,No,NLP
+2026,AI Engineer,UK,Big Tech,Entry,42704,No,SQL
+2026,NLP Engineer,Canada,Startup,Senior,138253,Yes,Python
+2026,NLP Engineer,Germany,Startup,Mid,111028,Yes,TensorFlow
+2026,Data Scientist,USA,Startup,Senior,190992,Yes,SQL
+2026,ML Engineer,Canada,Startup,Entry,41124,Yes,SQL
+2026,NLP Engineer,USA,Big Tech,Senior,178120,No,TensorFlow
+2026,ML Engineer,UK,Startup,Mid,127293,Yes,SQL
+2026,Data Scientist,UK,Startup,Mid,110814,Yes,TensorFlow
+2026,Data Scientist,Germany,Freelance,Senior,178409,Yes,NLP
+2026,ML Engineer,Germany,Startup,Senior,138098,No,PyTorch
+2026,Data Analyst,Canada,Big Tech,Senior,141642,Yes,SQL
+2026,Data Scientist,UK,Big Tech,Entry,31710,No,SQL
+2026,ML Engineer,Canada,Freelance,Entry,41418,No,PyTorch
+2026,NLP Engineer,Germany,Startup,Senior,148677,No,NLP
+2026,NLP Engineer,Canada,Startup,Entry,41097,No,TensorFlow

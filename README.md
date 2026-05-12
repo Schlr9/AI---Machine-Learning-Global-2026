@@ -40,3 +40,6 @@ Laporan hasil analisis disajikan dalam dua format utama:
 ##💻 Tech Stack
 - **Language:** Python 3.13.13
 - **Core Libraries:** Pandas (Data Manipulation), Seaborn & Matplotlib (Data Visualization), OS (System Automation).
+
+Dibuat Oleh : Bima
+Tahun : 2026

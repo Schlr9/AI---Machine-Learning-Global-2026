@@ -9,7 +9,9 @@ Analisis ini berfokus pada dua pilar utama:
 - **Optimasi Performa Belajar:**
   Mengidentifikasi pola efektivitas antara metode pembelajaran daring dan luring melalui variabel jam belajar dan skor ujian.
 - **Ekonomi Industri AI Global:**
-  Membedah struktur gaji, distribusi talenta, dan pengaruh keahlian teknis di pasar kerja AI/ML dunia.  
+  Membedah struktur gaji, distribusi talenta, dan pengaruh keahlian teknis di pasar kerja AI/ML dunia.
+- **Trend Idrustri AI Global:**
+  Mengolah pola skill, pekerjaan, dan pengalaman tiap tahunya di pasar kerja AI/ML di dunia
 
 ## 🛠️ Metodologi & Alur Kerja (Data Pipeline)
   Seluruh proses dilakukan secara sistematis menggunakan Python dengan alur sebagai berikut:

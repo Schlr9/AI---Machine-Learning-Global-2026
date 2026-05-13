@@ -66,4 +66,4 @@ plt.grid(True, linestyle='--', alpha=0.6)
 plt.legend()
 
 plt.savefig('output/Trend_Skill_in_AI')
-
+plt.show()
